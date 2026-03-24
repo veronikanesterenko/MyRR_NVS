@@ -1,0 +1,7 @@
+readme.xxx
+readme.txt
+
+*.~*
+*.swp
+
+/build/
