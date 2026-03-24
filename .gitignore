@@ -3,5 +3,5 @@ readme.txt
 
 *.~*
 *.swp
-
+*.DS_Store
 /build/
